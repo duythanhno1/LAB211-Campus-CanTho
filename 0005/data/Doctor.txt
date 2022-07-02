@@ -1,0 +1,9 @@
+3
+doc 1
+thanh
+2
+doctor 1
+doc 2
+thanh 2
+4
+doctor 2
