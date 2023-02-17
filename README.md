@@ -1,2 +1,2 @@
-# lab211_short_CT
-full sources lab211 sp21
+# lab211_Campus Can Tho SP22
+
