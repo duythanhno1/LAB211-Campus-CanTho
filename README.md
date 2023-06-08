@@ -1,3 +1,3 @@
 # lab211_Campus Can Tho SP22
 
-One project full sources code. Good luck...
+Chạy project đi sẽ có full bài từ a-z đủ 25đ pass. Goodluck
